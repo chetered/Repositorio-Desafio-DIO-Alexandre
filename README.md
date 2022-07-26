@@ -7,14 +7,16 @@ Repositório criado para o Desafio de projeto GIT/GITHUB por Alexandre Schumann
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 Headings
-To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three <code>(h3)</code>, use three number signs (e.g., <code>###</code> My Header).
 
 Markdown	HTML	Rendered Output
+  
 # Heading level 1	
 
 ## Heading level 2	
 
 ### Heading level 3
+  
 #### Heading level 4
   
 ##### Heading level 5
